@@ -54,7 +54,6 @@ VuePress 需要 [Node.js](https://nodejs.org/en/) >= 8.6
    ``` bash
    yarn docs:dev # npm run docs:dev
    ```
-
    VuePress 会在 [http://localhost:8080](http://localhost:8080) 启动一个热重载的开发服务器。
 
 现在，你应该已经有了一个简单可用的 VuePress 文档。接下来，了解一下推荐的 [目录结构](directory-structure.html) 和 VuePress 中的 [基本配置](basic-config.html)。
